@@ -1,0 +1,6 @@
+E:\Delegate\Delegate\Delegate\Task2\bin\Debug\Task2.exe.config
+E:\Delegate\Delegate\Delegate\Task2\bin\Debug\Task2.exe
+E:\Delegate\Delegate\Delegate\Task2\bin\Debug\Task2.pdb
+E:\Delegate\Delegate\Delegate\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Delegate\Delegate\Delegate\Task2\obj\Debug\Task2.exe
+E:\Delegate\Delegate\Delegate\Task2\obj\Debug\Task2.pdb
